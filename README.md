@@ -17,3 +17,5 @@ A modern, responsive web application for the Tech Conference 2025, built with Sv
    ```bash
    git clone https://github.com/your-username/tech-conference.git
    cd tech-conference
+   npm install
+   npm run dev
